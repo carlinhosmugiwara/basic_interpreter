@@ -1,4 +1,4 @@
-# This file contains the TOKENS and the LEXER
+# This file contains the set of rules of basic
 
 # defining the constants
 DIGITS = '0123456789'
